@@ -91,7 +91,7 @@ a {
   color: #050505;
   font-size: 19px;
   font-weight: 900;
-  box-shadow: 0 5px 22px rgba(184, 243, 107, .13);
+  box-shadow: 0 5px 22px rgba(255, 255, 255, .13);
 }
 
 .brand-name {
@@ -160,7 +160,7 @@ a {
   color: #050505;
   font-size: 13px;
   font-weight: 800;
-  box-shadow: 0 7px 24px rgba(184, 243, 107, .12);
+  box-shadow: 0 7px 24px rgba(255, 255, 255, .12);
 }
 
 .stats-grid {
@@ -232,7 +232,7 @@ a {
 .map-pill {
   min-height: 27px;
   padding: 0 9px;
-  border: 1px solid rgba(184, 243, 107, .2);
+  border: 1px solid rgba(255, 255, 255, .2);
   border-radius: 999px;
   display: inline-flex;
   align-items: center;
@@ -247,14 +247,14 @@ a {
   min-height: 248px;
   position: relative;
   overflow: hidden;
-  border: 1px solid rgba(184, 243, 107, .07);
+  border: 1px solid rgba(255, 255, 255, .07);
   border-radius: 14px;
   display: grid;
   place-items: center;
   background-color: #090909;
   background-image:
-    linear-gradient(rgba(184, 243, 107, .045) 1px, transparent 1px),
-    linear-gradient(90deg, rgba(184, 243, 107, .045) 1px, transparent 1px);
+    linear-gradient(rgba(255, 255, 255, .045) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, .045) 1px, transparent 1px);
   background-size: 32px 32px;
 }
 
@@ -264,7 +264,7 @@ a {
   position: absolute;
   width: 310px;
   height: 170px;
-  border: 1px solid rgba(184, 243, 107, .12);
+  border: 1px solid rgba(255, 255, 255, .12);
   border-radius: 50%;
   transform: rotate(-25deg);
   left: 4%;
@@ -292,11 +292,11 @@ a {
   width: 51px;
   height: 51px;
   margin: 0 auto 13px;
-  border: 1px solid rgba(184, 243, 107, .22);
+  border: 1px solid rgba(255, 255, 255, .22);
   border-radius: 17px;
   display: grid;
   place-items: center;
-  background: rgba(184, 243, 107, .09);
+  background: rgba(255, 255, 255, .09);
   color: var(--accent);
 }
 
@@ -337,7 +337,7 @@ a {
   height: 6px;
   border-radius: 50%;
   background: var(--accent);
-  box-shadow: 0 0 9px rgba(184, 243, 107, .55);
+  box-shadow: 0 0 9px rgba(255, 255, 255, .55);
 }
 
 .crew-card {
@@ -350,11 +350,11 @@ a {
   width: 37px;
   height: 37px;
   margin-bottom: 14px;
-  border: 1px solid rgba(184, 243, 107, .18);
+  border: 1px solid rgba(255, 255, 255, .18);
   border-radius: 12px;
   display: grid;
   place-items: center;
-  background: rgba(184, 243, 107, .08);
+  background: rgba(255, 255, 255, .08);
   color: var(--accent);
 }
 
@@ -374,13 +374,13 @@ a {
   min-height: 46px;
   width: 100%;
   padding: 0 13px;
-  border: 1px solid rgba(184, 243, 107, .2);
+  border: 1px solid rgba(255, 255, 255, .2);
   border-radius: 13px;
   display: flex;
   align-items: center;
   justify-content: center;
   gap: 9px;
-  background: rgba(184, 243, 107, .07);
+  background: rgba(255, 255, 255, .07);
   color: var(--accent);
   font-size: 12px;
   font-weight: 700;
